@@ -1,2 +1,2 @@
 # DRF Viewsets and tests
-Django Rest Framework Portfolio
+Django Rest Framework Portfolios
